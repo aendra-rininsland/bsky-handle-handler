@@ -1,0 +1,15 @@
+{
+  "name": "bsky-handle-handler",
+  "version": "1.0.0",
+  "description": "<!-- title: 'Bluesky Handle Resolver' description: 'Put this on a wildcard subdomain and populate handles.tsv with Bluesky handles and DIDs to allow multiple people to set their Bluesky handle to your domain' framework: v3 platform: AWS language: nodeJS authorLink: 'https://github.com/aendra-rininsland' authorName: 'Ændra Rininsland' authorAvatar: 'https://avatars.githubusercontent.com/u/185041?v=4' -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^3.38.0"
+  }
+}
